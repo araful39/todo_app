@@ -1,0 +1,30 @@
+Analyzing todo_app...                                           
+
+warning • Unused import: 'package:flutter/material.dart' • lib/core/routes/app_router.dart:1:8 • unused_import
+  error • Invalid constant value • lib/features/auth/presentation/login_screen.dart:50:28 • invalid_constant
+  error • Undefined name 'AppTheme' • lib/features/auth/presentation/login_screen.dart:50:28 • undefined_identifier
+  error • Invalid constant value • lib/features/auth/presentation/register_screen.dart:29:61 • invalid_constant
+  error • Undefined name 'AppTheme' • lib/features/auth/presentation/register_screen.dart:29:61 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/splash/presentation/splash_screen.dart:31:24 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/splash/presentation/splash_screen.dart:43:41 • deprecated_member_use
+  error • Invalid constant value • lib/features/splash/presentation/splash_screen.dart:52:24 • invalid_constant
+  error • Undefined name 'AppTheme' • lib/features/splash/presentation/splash_screen.dart:52:24 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/splash/presentation/splash_screen.dart:73:37 • deprecated_member_use
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:30:26 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:51:42 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:91:32 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:97:34 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/todo/presentation/home_screen.dart:133:51 • deprecated_member_use
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:149:61 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:149:85 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:152:59 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:165:57 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:165:82 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/home_screen.dart:195:26 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/widgets/add_todo_dialog.dart:37:28 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/widgets/add_todo_dialog.dart:46:28 • undefined_identifier
+  error • Invalid constant value • lib/features/todo/presentation/widgets/add_todo_dialog.dart:60:53 • invalid_constant
+  error • Undefined name 'AppTheme' • lib/features/todo/presentation/widgets/add_todo_dialog.dart:60:53 • undefined_identifier
+  error • Undefined name 'AppTheme' • lib/main.dart:21:14 • undefined_identifier
+
+26 issues found. (ran in 1.4s)
